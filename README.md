@@ -6,5 +6,6 @@
 1. QMessageBox
 2. QProgressBar, QSlider, QSpinBox
 3. QInputDialog
+4. QCheckBox
 
 
