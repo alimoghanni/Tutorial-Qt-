@@ -8,5 +8,6 @@
 3. QInputDialog
 4. QCheckBox
 5. QPushButton
+6.
 
 
