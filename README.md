@@ -9,5 +9,6 @@
 4. QCheckBox
 5. QPushButton
 6. QLayout
+7.
 
 
