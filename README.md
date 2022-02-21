@@ -12,6 +12,6 @@
 7. QListWidget
 8. QDebug
 9. QString
-10.
+10. QObject
 
 
