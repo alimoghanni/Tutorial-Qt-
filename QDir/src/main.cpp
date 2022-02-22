@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
     QCoreApplication a(argc, argv);
 
     QDir directory;
-    directory.setPath("E:/Apps/Alfatraining_C++_Qt/Tutorial Qt Creator");
+    directory.setPath("C:/Users/Public/Desktop");
     qDebug() << directory[3];
 
     int total = directory.count();
