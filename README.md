@@ -13,6 +13,7 @@
 8. QDebug
 9. QString
 10. QObject
-11. 
+11. QDir
+12.
 
 
