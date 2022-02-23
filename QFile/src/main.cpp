@@ -8,7 +8,7 @@ int main(int argc, char *argv[])
 
     QByteArray content;
     QFile qFile;
-    qFile.setFileName("E:/Apps/Alfatraining_C++_Qt/Tutorial Qt Creator/Tutorial Qt Creator - QFile/QFile/text.txt");
+    qFile.setFileName("C:/Users/Public/Desktop/text.txt");
 
     if (!qFile.exists())
     {
