@@ -14,6 +14,7 @@
 9. QString
 10. QObject
 11. QDir
-12.
+12. QFile
+13.
 
 
