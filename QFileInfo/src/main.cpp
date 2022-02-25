@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
     QCoreApplication a(argc, argv);
 
     QFileInfo qfInfo;
-    qfInfo.setFile("E:/Apps/Alfatraining_C++_Qt/Tutorial Qt Creator/Tutorial Qt Creator - QFileInfo/QFileInfo/text.txt");
+    qfInfo.setFile("C:/Users/Public/Desktop/text.txt");
 
     qDebug() << qfInfo.fileName();
     qDebug() << qfInfo.filePath();
