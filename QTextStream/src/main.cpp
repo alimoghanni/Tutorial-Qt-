@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
     QFile qfFile;
     QString content;
 
-    qfFile.setFileName("E:/Apps/Alfatraining_C++_Qt/Tutorial Qt Creator/Tutorial Qt Creator - QTextStream/QTextStream/text.txt");
+    qfFile.setFileName("C:/Users/Public/Desktop/text.txt");
     qfFile.open(QIODevice::ReadWrite | QIODevice::Text);
 
     if (!qfFile.isOpen()) {
