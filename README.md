@@ -15,6 +15,6 @@
 10. QObject
 11. QDir
 12. QFile
-13.
+13. QTextStream
 
 
