@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
     QDataStream io;
     QFile qfFile;
 
-    qfFile.setFileName("E:/Apps/Alfatraining_C++_Qt/Tutorial Qt Creator/Tutorial Qt Creator - QDataStream/QDataStream/text.txt");
+    qfFile.setFileName("C:/Users/Public/Desktop/text.txt");
     qfFile.open(QIODevice::WriteOnly);
     io.setDevice(&qfFile);
     io << 20;
