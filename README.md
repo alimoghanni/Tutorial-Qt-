@@ -17,5 +17,6 @@
 12. QFile
 13. QTextStream
 14. QDataStream
-15. 
+15. QList
+
 
