@@ -18,6 +18,6 @@
 13. QTextStream
 14. QDataStream
 15. QList
-16.
+16. QVector
 
 
