@@ -19,6 +19,6 @@
 14. QDataStream
 15. QList
 16. QVector
-17.
+17. Foreach
 
 
