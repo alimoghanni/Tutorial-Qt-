@@ -23,5 +23,5 @@
 18. QVariant
 19. QDateTime
 20. QMap
-21.
+21. Signals and Slots
 
