@@ -26,6 +26,6 @@
 21. Signals and Slots
 22. qDebugInsertionOperator
 23. QPointer
-24.
+24. Timer
 
 
