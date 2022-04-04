@@ -28,5 +28,5 @@
 23. QPointer
 24. Timer
 25. QTimer
-
+26. 
 
