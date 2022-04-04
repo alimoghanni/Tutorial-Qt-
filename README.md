@@ -27,6 +27,6 @@
 22. qDebugInsertionOperator
 23. QPointer
 24. Timer
-25. 
+25. QTimer
 
 
