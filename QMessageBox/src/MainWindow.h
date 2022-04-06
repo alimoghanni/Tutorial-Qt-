@@ -17,11 +17,8 @@ public:
 
 private slots:
 
-
     void on_btnInfo_clicked();
-
     void on_btnCritical_clicked();
-
     void on_btnWarning_clicked();
 
 private:
