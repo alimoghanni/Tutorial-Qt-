@@ -3,9 +3,9 @@
 #include <QButtonGroup>
 #include <QMessageBox>
 
-MainWindow::MainWindow(QWidget *parent)
-    : QWidget(parent)
-    , ui(new Ui::MainWindow)
+MainWindow::MainWindow(QWidget *parent) :
+    QWidget(parent),
+    ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
 
