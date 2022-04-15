@@ -66,7 +66,5 @@ int main(int argc, char *argv[])
     else
         qDebug() << "Error!";
 
-
-
     return a.exec();
 }
