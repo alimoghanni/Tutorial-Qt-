@@ -60,9 +60,6 @@ int main(int argc, char *argv[])
 
     delete tom;
 
-
-
-
     return a.exec();
 }
 
