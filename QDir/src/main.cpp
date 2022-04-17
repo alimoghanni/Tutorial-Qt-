@@ -8,6 +8,7 @@ int main(int argc, char *argv[])
 
     QDir directory;
     directory.setPath("C:/Users/Public/Desktop");
+
     qDebug() << directory[3];
 
     int total = directory.count();
