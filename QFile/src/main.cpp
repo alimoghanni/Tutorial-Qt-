@@ -33,6 +33,5 @@ int main(int argc, char *argv[])
     //qFile.flush();
     //qFile.close();
 
-
     return a.exec();
 }
