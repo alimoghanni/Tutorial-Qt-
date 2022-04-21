@@ -28,8 +28,5 @@ int main(int argc, char *argv[])
     qfFile.flush();
     qfFile.close();
 
-
-
-
     return a.exec();
 }
