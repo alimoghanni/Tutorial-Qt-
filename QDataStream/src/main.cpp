@@ -20,6 +20,5 @@ int main(int argc, char *argv[])
 
     qDebug() << "some text...";
 
-
     return a.exec();
 }
