@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
 
     QList<int>::Iterator i;
     for (i = list.begin(); i != list.end(); ++i) {
-       sum1 += *i;
+        sum1 += *i;
     }
 
     qDebug() << "sum from iterator: " << sum1;
@@ -70,6 +70,7 @@ int main(int argc, char *argv[])
 
     QString qstrjoin = newlist.join('-');
     qDebug() << qstrjoin;
+
 
     return a.exec();
 }
