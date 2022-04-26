@@ -10,9 +10,9 @@ int main(int argc, char *argv[])
     vecInt << 1 << 2 << 7 << 9 << 5;
 
     qDebug() << vecInt;
-	
-	
-	QVector<double> vecDouble;
+
+
+    QVector<double> vecDouble;
     vecDouble << 1.2 << 2.9 << 7.3 << 9.0 << 5.5;
 
     qDebug() << vecDouble;
@@ -22,6 +22,7 @@ int main(int argc, char *argv[])
     vecQString << "This" << "is" << "a" << "Vector" << "QString";
 
     qDebug() << vecQString;
+
 
     return a.exec();
 }
