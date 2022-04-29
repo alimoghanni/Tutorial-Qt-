@@ -14,7 +14,7 @@ int main(int argc, char *argv[])
 
     QObject::connect(tom, &Person::speak, jerry, &Person::listen);
 
-    tom->heSpeaks("Hello Jerry");
+    tom->heSpeaks("Hello, Jerry!");
 
     delete p;
 
