@@ -22,8 +22,6 @@ signals:
 
 public slots:
     void listen(const QString &words);
-
-
 };
 
 #endif // PERSON_H
