@@ -30,5 +30,5 @@
 25. QTimer
 26. Qwidget
 27. Signals and Slots 2
-28.
+28. 
 
