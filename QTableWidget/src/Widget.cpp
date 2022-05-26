@@ -39,7 +39,9 @@ void Widget::on_btnAdd_clicked()
     salary = pd.salary();
 
     ui->tableWidget->insertRow(ui->tableWidget->rowCount());
+	
     row = ui->tableWidget->rowCount() - 1;
+	
     ui->tableWidget->setItem(row, NAME, new QTableWidgetItem(name));
     ui->tableWidget->setItem(row, AGE, new QTableWidgetItem(QString::number(age)));
     ui->tableWidget->setItem(row, SALARY, new QTableWidgetItem(QString::number(salary)));
